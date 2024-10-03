@@ -1,6 +1,6 @@
 # Zoom Web Socket Project
 
-## How run the program?
+## How to run the program?
 #### Disclaimer: Both host and clients must be connected to the same network.
 * Run the python app on the host server
 * then get the host machines IP address. 
