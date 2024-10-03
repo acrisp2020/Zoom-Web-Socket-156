@@ -4,7 +4,7 @@
 #### Disclaimer: Both host and clients must be connected to the same network.
 * Run the python app on the host server
 * then get the host machines IP address. 
-* then copy/paste this into your browser "http:/<host ip>:5000"
+* then copy/paste this into your browser "http:/"host_ip":5000"
 
 Minimum Required Features:
 *Main Room Text Broadcasts
