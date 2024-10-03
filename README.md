@@ -6,6 +6,14 @@
 * then get the host machines IP address. 
 * then copy/paste this into your browser "http:/"host_ip":5000"
 
+
+
+
+
+
+
+
+
 Minimum Required Features:
 *Main Room Text Broadcasts
 *1-to-1 Text Messaging
@@ -24,7 +32,6 @@ SQLite
 
 Web Socket Frameworks:
 Flask-Socket.IO
-FastAPI
 
 Media Frameworks:
 WebRTC
