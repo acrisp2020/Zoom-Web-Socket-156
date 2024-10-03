@@ -35,8 +35,6 @@ Other Requirements:
 Socket Development Proof
 
 
-
-
 HOW TO USE GIT
 //First Commit
 1. Initialize Git (if not done already):
