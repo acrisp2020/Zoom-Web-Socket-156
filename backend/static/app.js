@@ -1,4 +1,4 @@
-const socket = io.connect('http://172.16.129.41:5000');
+const socket = io.connect('http://172.16.129.19:5000');
 
 //prompts user for a username
 let username = prompt("Enter Username:");
