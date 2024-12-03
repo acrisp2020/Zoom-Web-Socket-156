@@ -1,7 +1,0 @@
-Flask>=2.3.0
-Flask-SocketIO>=5.3.0
-eventlet==0.30.2
-gevent==23.9.1
-werkzeug>=2.0.3
-Flask-SQLAlchemy==2.5.1
-
